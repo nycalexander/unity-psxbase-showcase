@@ -5,8 +5,10 @@ This project is a small demo that combines a bodycam perspective with the retro 
 
 You can view the demo video to get a better sense of the project in action.
 
-<video src="https://raw.githubusercontent.com/nycalexander/unity-psxbase-showcase/main/DEMO.mp4" autoplay muted loop />
-
+<div>
+<video src="https://raw.githubusercontent.com/nycalexander/unity-psxbase-showcase/main/DEMO.mp4" autoplay loop muted />
+</div>
+   
 ## Features
 
 ### 1. **Bodycam Perspective**
