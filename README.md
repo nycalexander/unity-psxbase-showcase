@@ -6,7 +6,7 @@ This project is a small demo that combines a bodycam perspective with the retro 
 You can view the demo video to get a better sense of the project in action.
 
 <div>
-<video src="https://raw.githubusercontent.com/nycalexander/unity-psxbase-showcase/main/DEMO.mp4" autoplay loop muted />
+<video src="https://github.com/user-attachments/assets/d286a56a-79c1-4515-95fe-ef387a763841" autoplay loop muted />
 </div>
    
 ## Features
